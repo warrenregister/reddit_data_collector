@@ -22,7 +22,7 @@ class PushshiftScraper:
         custom_befores: list of unix before timestamps to query for
         custom_afters: list of unix after timestamps to query for
         log_path: path to file to save logs to
-        data_path: path to file to save results to
+        data_path: path to file to save results to 
         """
         self.qs = keywords
         self.subreddits = subreddits
@@ -73,7 +73,7 @@ class PushshiftScraper:
         response = get(url)
 
         if response.status_code >= 300: # catch and log bad requests
-            with open(self.log_path, 'w') as file:
+            with open(self.log_path, 'a') as file:
                 file.write(str(response.status_code))
                 file.write('\n')
                 file.write(url)
