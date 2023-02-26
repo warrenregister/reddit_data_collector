@@ -19,7 +19,10 @@ class PushshiftScraper:
 
         keywords: list of query strings
         subreddits: list of subreddits to check query strings on defauls to r/UCI
-        other_time_stamps: list of alternate unix timestamp tuples to count results between
+        custom_befores: list of unix before timestamps to query for
+        custom_afters: list of unix after timestamps to query for
+        log_path: path to file to save logs to
+        data_path: path to file to save results to
         """
         self.qs = keywords
         self.subreddits = subreddits
