@@ -13,7 +13,9 @@ class PushshiftScraper:
 
     def __init__(self, keywords: list, subreddits=('uci', ),
                  custom_periods=None,
-                 log_path='./logs.txt', data_path='./reddit_data.csv'):
+                 log_path='./logs.txt',
+                 data_path='./reddit_data.csv',
+                 append_data=False):
         """
         Initiate scraper with a list of keywords to query over another list
         of subreddits. By default queries are made for each month, but if
@@ -25,7 +27,9 @@ class PushshiftScraper:
         aggregate over, if non is passed uses every month between Feb 1 2023
         and Jan 1 2010
         log_path: path to file to save logs to
-        data_path: path to file to save results to 
+        data_path: path to file to save results to
+        append_data: bool, if true assumes that data_path file already
+        has a header and data, so it appends to the end
         """
         self.qs = keywords
         self.subreddits = subreddits
@@ -37,9 +41,10 @@ class PushshiftScraper:
             self.befores = custom_periods
 
         
-        with open(self.data_path, 'w') as csvfile:
-            writer = DictWriter(csvfile, fieldnames=self.fields)
-            writer.writeheader()
+        if not append_data:
+            with open(self.data_path, 'w') as csvfile:
+                writer = DictWriter(csvfile, fieldnames=self.fields)
+                writer.writeheader()
 
     def create_urls(self, queries, subreddits, periods, types=['submission', 'comment']):
         """
@@ -114,20 +119,24 @@ class PushshiftScraper:
         return periods
 
 
-    def make_requests(self, start=datetime(2023, 2, 1), end=datetime(2010, 1, 1), sleep_time=20):
+    def make_requests(self, start=datetime(2023, 2, 1), end=datetime(2010, 1, 1), sleep_time=20, search_types=['submission', 'comment'],
+                      alt_data_path=None, append_to_alt=False):
         """
         Executes and stores results for all requests specifiec by constructor parameters
 
         start: datetime.datetime for first day of the first month not being checked
         end: datetime.datetime for first day of the last month to be checked
-        sleep_time: if a request gets an http error code, how long to wait before trying again
+        sleep_time: int, if a request gets an http error code, how long to wait before trying again
+        search_types: list, types of search to try in ['subreddit', 'submission', 'comment']
+        alt_data_path: string, alternative file path to store reqeusts to.
+        append_to_alt: bool, if true assumes alt_data_path already has data in it and
+        appends to the end.
         """
-
         if self.periods is None:
             self.periods =  self.get_month_timestamps(start, end)
         
 
-        for url in self.create_urls(self.qs, self.subreddits, self.periods):
+        for url in self.create_urls(self.qs, self.subreddits, self.periods, types=search_types):
             data = {}
             executed, results = self.execute_request(url)
 
@@ -147,7 +156,7 @@ class PushshiftScraper:
 
             if not found:
                 data['term'] = ''
-            print(url)
+
             data['submission'] = 1 if url[39] == 's' else 0
             data['subreddit'] = results['metadata']['es_query']['query']['bool']['must'][1]['bool']['should'][0]['match']['subreddit']
             data['hits'] = results['metadata']['es']['hits']['total']['value']
@@ -156,12 +165,23 @@ class PushshiftScraper:
             range_list = results['metadata']['es_query']['query']['bool']['must'][0]['bool']['must']
 
             for elem in range_list:
-                range = elem['range']['created_utc']
-                if 'gte' in range:
-                    data['after'] =  elem['range']['created_utc']['gte']
-                elif 'lt' in range:
-                    data['before'] = elem['range']['created_utc']['lt']
+                try:
+                    range = elem['range']['created_utc']
+                    if 'gte' in range:
+                        data['after'] =  elem['range']['created_utc']['gte']
+                    elif 'lt' in range:
+                        data['before'] = elem['range']['created_utc']['lt']
+                except KeyError:
+                    continue
 
-            with open(self.data_path, 'a') as csvfile:
-                 writer = DictWriter(csvfile, fieldnames=self.fields)
-                 writer.writerow(data)
+            if alt_data_path is None:
+                with open(self.data_path, 'a') as csvfile:
+                    writer = DictWriter(csvfile, fieldnames=self.fields)
+                    writer.writerow(data)
+            else:
+                with open(alt_data_path, 'a') as csvfile:
+                    writer = DictWriter(csvfile, fieldnames=self.fields)
+                    if not alt_data_path:
+                        writer.writeheader()
+
+                    writer.writerow(data)

@@ -2,3 +2,4 @@ logs.txt
 reddit_data.csv
 reddit_data_test1.csv
 __pycache__/
+*.csv
