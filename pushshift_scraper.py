@@ -38,7 +38,7 @@ class PushshiftScraper:
         self.periods = None
 
         if custom_periods is not None:
-            self.befores = custom_periods
+            self.periods = custom_periods
 
         
         if not append_data:
