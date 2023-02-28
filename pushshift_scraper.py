@@ -181,7 +181,8 @@ class PushshiftScraper:
             else:
                 with open(alt_data_path, 'a') as csvfile:
                     writer = DictWriter(csvfile, fieldnames=self.fields)
-                    if not alt_data_path:
+                    if not append_to_alt:
                         writer.writeheader()
+                        append_to_alt = True
 
                     writer.writerow(data)
