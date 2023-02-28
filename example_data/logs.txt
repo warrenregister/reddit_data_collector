@@ -1,0 +1,440 @@
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=uci&before=1617260400&after=1614585600&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=uci&before=1580544000&after=1577865600&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=uci&before=1541055600&after=1538377200&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=uci&before=1504249200&after=1501570800&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=uci&before=1464764400&after=1462086000&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=uci&before=1427871600&after=1425196800&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=uci&before=1388563200&after=1385884800&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=uci&before=1349074800&after=1346482800&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=uci&before=1309503600&after=1306911600&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=uci&before=1272697200&after=1270105200&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=sports&subreddit=uci&before=1619852400&after=1617260400&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=sports&subreddit=uci&before=1580544000&after=1577865600&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=sports&subreddit=uci&before=1541055600&after=1538377200&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=sports&subreddit=uci&before=1501570800&after=1498892400&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=sports&subreddit=uci&before=1459494000&after=1456819200&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=sports&subreddit=uci&before=1417420800&after=1414825200&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=sports&subreddit=uci&before=1372662000&after=1370070000&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=sports&subreddit=uci&before=1333263600&after=1330588800&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=sports&subreddit=uci&before=1288594800&after=1285916400&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=sports&subreddit=uci&before=1656658800&after=1654066800&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=sports&subreddit=uci&before=1622530800&after=1619852400&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=sports&subreddit=uci&before=1588316400&after=1585724400&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=uci&before=1622530800&after=1619852400&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=uci&before=1585724400&after=1583049600&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=uci&before=1551427200&after=1549008000&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=uci&before=1514793600&after=1512115200&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=uci&before=1477983600&after=1475305200&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=uci&before=1441090800&after=1438412400&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=uci&before=1404198000&after=1401606000&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=uci&before=1367391600&after=1364799600&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=uci&before=1330588800&after=1328083200&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=uci&before=1296547200&after=1293868800&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=sports&subreddit=uci&before=1675238400&after=1672560000&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=sports&subreddit=uci&before=1641024000&after=1638345600&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=sports&subreddit=uci&before=1604214000&after=1601535600&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=sports&subreddit=uci&before=1569913200&after=1567321200&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=sports&subreddit=uci&before=1535785200&after=1533106800&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=sports&subreddit=uci&before=1501570800&after=1498892400&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=sports&subreddit=uci&before=1462086000&after=1459494000&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=sports&subreddit=uci&before=1425196800&after=1422777600&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=sports&subreddit=uci&before=1391241600&after=1388563200&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=sports&subreddit=uci&before=1354348800&after=1351753200&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=sports&subreddit=uci&before=1320130800&after=1317452400&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=sports&subreddit=uci&before=1285916400&after=1283324400&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
