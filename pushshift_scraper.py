@@ -15,7 +15,7 @@ class PushshiftScraper:
                  custom_periods=None,
                  log_path='./logs.txt',
                  data_path='./reddit_data.csv',
-                 append_data=False):
+                 append_data=True):
         """
         Initiate scraper with a list of keywords to query over another list
         of subreddits. By default queries are made for each month, but if
@@ -29,7 +29,7 @@ class PushshiftScraper:
         log_path: path to file to save logs to
         data_path: path to file to save results to
         append_data: bool, if true assumes that data_path file already
-        has a header and data, so it appends to the end
+        exists, so it appends to the end
         """
         self.qs = keywords
         self.subreddits = subreddits
@@ -132,11 +132,14 @@ class PushshiftScraper:
         append_to_alt: bool, if true assumes alt_data_path already has data in it and
         appends to the end.
         """
+        periods = None
         if self.periods is None:
-            self.periods =  self.get_month_timestamps(start, end)
+            periods =  self.get_month_timestamps(start, end)
+        else:
+            periods = self.periods
         
 
-        for url in self.create_urls(self.qs, self.subreddits, self.periods, types=search_types):
+        for url in self.create_urls(self.qs, self.subreddits, periods, types=search_types):
             data = {}
             executed, results = self.execute_request(url)
 

@@ -7,7 +7,7 @@ if __name__ == '__main__':
     # submissions appear to only have data in pushshift going back 2 months
     # so best to only look at comments for now
     scraper = ps.PushshiftScraper(kwords,
-                                  data_path='.example_data/reddit_comments.csv',
+                                  data_path='./example_data/reddit_comments.csv',
                                   log_path='./example_data/logs.txt')
     scraper.make_requests(search_types=['comment'])
     
