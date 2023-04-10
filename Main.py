@@ -2,7 +2,7 @@ import pushshift_scraper as ps
 from datetime import datetime
 
 if __name__ == '__main__':
-    kwords = ["", "sports"]
+    kwords = ["", ""]
 
     # submissions appear to only have data in pushshift going back 2 months
     # so best to only look at comments for now
