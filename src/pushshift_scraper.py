@@ -119,7 +119,7 @@ class PushshiftScraper:
         return periods
 
 
-    def make_requests(self, start=datetime(2023, 2, 1), end=datetime(2010, 1, 1), sleep_time=20, search_types=['submission', 'comment'],
+    def make_requests(self, start=datetime(2023, 4, 1), end=datetime(2010, 1, 1), sleep_time=20, search_types=['submission', 'comment'],
                       alt_data_path=None, append_to_alt=False):
         """
         Executes and stores results for all requests specifiec by constructor parameters

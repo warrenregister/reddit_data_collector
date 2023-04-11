@@ -6,10 +6,10 @@ if __name__ == '__main__':
 
     # submissions appear to only have data in pushshift going back 2 months
     # so best to only look at comments for now
-    scraper = ps.PushshiftScraper(kwords,
-                                  data_path='./example_data/reddit_comments.csv',
+    scraper = ps.PushshiftScraper(kwords, subreddits=['uci', 'ucsd', 'ucsc', 'ucmerced', 'ucr', 'ucsantabarbara', 'UCdavis', 'berkeley'],
+                                  data_path='./example_data/reddit_data_full.csv',
                                   log_path='./example_data/logs.txt')
-    scraper.make_requests(search_types=['comment'])
+    scraper.make_requests(search_types=['submission', 'comment'])
     
     # to look at submissions with a smaller time window try this
     # can store to separate file with alt_data_path

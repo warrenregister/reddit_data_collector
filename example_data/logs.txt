@@ -438,3 +438,1413 @@ https://api.pushshift.io/reddit/search/comment/?q=sports&subreddit=uci&before=12
 </body>
 </html>
 
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=uci&before=1577865600&after=1575187200&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=uci&before=1535785200&after=1533106800&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=uci&before=1475305200&after=1472713200&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=uci&before=1435734000&after=1433142000&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=uci&before=1388563200&after=1385884800&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=uci&before=1338534000&after=1335855600&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=uci&before=1291190400&after=1288594800&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=ucsd&before=1664607600&after=1662015600&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=ucsd&before=1622530800&after=1619852400&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=ucsd&before=1583049600&after=1580544000&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=ucsd&before=1541055600&after=1538377200&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=ucsd&before=1493622000&after=1491030000&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=ucsd&before=1451635200&after=1448956800&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=ucsd&before=1409554800&after=1406876400&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=ucsd&before=1372662000&after=1370070000&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=ucsd&before=1333263600&after=1330588800&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=ucsd&before=1291190400&after=1288594800&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=ucsc&before=1669881600&after=1667286000&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=ucsc&before=1596265200&after=1593586800&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=ucsc&before=1533106800&after=1530428400&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=ucsc&before=1472713200&after=1470034800&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=ucsc&before=1420099200&after=1417420800&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=ucsc&before=1354348800&after=1351753200&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=ucsc&before=1296547200&after=1293868800&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=ucmerced&before=1667286000&after=1664607600&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=ucmerced&before=1617260400&after=1614585600&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=ucmerced&before=1561964400&after=1559372400&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=ucmerced&before=1504249200&after=1501570800&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=ucmerced&before=1435734000&after=1433142000&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=ucmerced&before=1370070000&after=1367391600&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=ucmerced&before=1314860400&after=1312182000&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=ucmerced&before=1265011200&after=1262332800&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=ucr&before=1630479600&after=1627801200&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=ucr&before=1583049600&after=1580544000&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=ucr&before=1530428400&after=1527836400&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=ucr&before=1488355200&after=1485936000&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=ucr&before=1448956800&after=1446361200&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=ucr&before=1396335600&after=1393660800&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=ucr&before=1357027200&after=1354348800&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=ucr&before=1314860400&after=1312182000&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=ucr&before=1275375600&after=1272697200&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=ucsantabarbara&before=1630479600&after=1627801200&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=ucsantabarbara&before=1588316400&after=1585724400&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=ucsantabarbara&before=1543651200&after=1541055600&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=ucsantabarbara&before=1506841200&after=1504249200&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=ucsantabarbara&before=1467356400&after=1464764400&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=ucsantabarbara&before=1406876400&after=1404198000&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=ucsantabarbara&before=1367391600&after=1364799600&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=ucsantabarbara&before=1322726400&after=1320130800&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=ucsantabarbara&before=1277967600&after=1275375600&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=UCdavis&before=1656658800&after=1654066800&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=UCdavis&before=1619852400&after=1617260400&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=UCdavis&before=1583049600&after=1580544000&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=UCdavis&before=1535785200&after=1533106800&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=UCdavis&before=1485936000&after=1483257600&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=UCdavis&before=1446361200&after=1443682800&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=UCdavis&before=1409554800&after=1406876400&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=UCdavis&before=1370070000&after=1367391600&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=UCdavis&before=1333263600&after=1330588800&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=UCdavis&before=1293868800&after=1291190400&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=uci&before=1590994800&after=1588316400&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=uci&before=1554102000&after=1551427200&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=uci&before=1519891200&after=1517472000&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=uci&before=1480579200&after=1477983600&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=uci&before=1443682800&after=1441090800&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=uci&before=1401606000&after=1398927600&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=uci&before=1364799600&after=1362124800&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=uci&before=1330588800&after=1328083200&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=uci&before=1293868800&after=1291190400&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=ucsd&before=1675238400&after=1672560000&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=ucsd&before=1638345600&after=1635750000&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=ucsd&before=1598943600&after=1596265200&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=ucsd&before=1564642800&after=1561964400&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=ucsd&before=1525158000&after=1522566000&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=ucsd&before=1485936000&after=1483257600&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=ucsd&before=1443682800&after=1441090800&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=ucsd&before=1406876400&after=1404198000&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=ucsd&before=1367391600&after=1364799600&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=ucsd&before=1325404800&after=1322726400&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=ucsd&before=1280646000&after=1277967600&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=ucsc&before=1656658800&after=1654066800&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=ucsc&before=1612166400&after=1609488000&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=ucsc&before=1569913200&after=1567321200&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=ucsc&before=1525158000&after=1522566000&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=ucsc&before=1483257600&after=1480579200&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=ucsc&before=1433142000&after=1430463600&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=ucsc&before=1393660800&after=1391241600&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=ucsc&before=1338534000&after=1335855600&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=ucsc&before=1301641200&after=1298966400&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=ucmerced&before=1677657600&after=1675238400&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=ucmerced&before=1630479600&after=1627801200&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=ucmerced&before=1596265200&after=1593586800&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=ucmerced&before=1561964400&after=1559372400&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=ucmerced&before=1527836400&after=1525158000&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=ucmerced&before=1488355200&after=1485936000&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=ucmerced&before=1454313600&after=1451635200&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=ucmerced&before=1412146800&after=1409554800&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=ucmerced&before=1372662000&after=1370070000&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=ucmerced&before=1335855600&after=1333263600&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=ucr&before=1677657600&after=1675238400&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=ucr&before=1638345600&after=1635750000&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=ucr&before=1598943600&after=1596265200&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=ucr&before=1561964400&after=1559372400&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=ucr&before=1527836400&after=1525158000&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=ucr&before=1491030000&after=1488355200&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=ucr&before=1454313600&after=1451635200&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=ucr&before=1417420800&after=1414825200&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=ucr&before=1375340400&after=1372662000&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=ucr&before=1330588800&after=1328083200&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=ucr&before=1293868800&after=1291190400&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=ucsantabarbara&before=1677657600&after=1675238400&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=ucsantabarbara&before=1633071600&after=1630479600&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=ucsantabarbara&before=1583049600&after=1580544000&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=ucsantabarbara&before=1412146800&after=1409554800&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=ucsantabarbara&before=1375340400&after=1372662000&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=ucsantabarbara&before=1270105200&after=1267430400&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=UCdavis&before=1654066800&after=1651388400&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=UCdavis&before=1612166400&after=1609488000&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=UCdavis&before=1569913200&after=1567321200&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=UCdavis&before=1530428400&after=1527836400&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=UCdavis&before=1483257600&after=1480579200&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=UCdavis&before=1446361200&after=1443682800&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=UCdavis&before=1412146800&after=1409554800&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=UCdavis&before=1378018800&after=1375340400&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=UCdavis&before=1338534000&after=1335855600&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=UCdavis&before=1298966400&after=1296547200&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=berkeley&before=1590994800&after=1588316400&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=berkeley&before=1551427200&after=1549008000&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=berkeley&before=1504249200&after=1501570800&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=berkeley&before=1459494000&after=1456819200&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=berkeley&before=1420099200&after=1417420800&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=berkeley&before=1378018800&after=1375340400&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=berkeley&before=1333263600&after=1330588800&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/comment/?q=&subreddit=berkeley&before=1291190400&after=1288594800&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=berkeley&before=1572591600&after=1569913200&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=berkeley&before=1533106800&after=1530428400&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=berkeley&before=1496300400&after=1493622000&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=berkeley&before=1454313600&after=1451635200&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=berkeley&before=1412146800&after=1409554800&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=berkeley&before=1341126000&after=1338534000&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+429
+https://api.pushshift.io/reddit/search/submission/?q=&subreddit=berkeley&before=1296547200&after=1293868800&track_total_hits=true&limit=0
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
